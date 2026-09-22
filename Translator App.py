@@ -1,4 +1,4 @@
-﻿# Jannat Translator - Al Maarifa Ait Melloul
+﻿# JannatTranslator - Al Maarifa Ait Melloul
 # Software Engineering Project for GKS Scholarship
 # Author: Jannat - 18/20 French
 
